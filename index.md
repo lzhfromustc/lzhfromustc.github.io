@@ -1,5 +1,3 @@
-# Ziheng Liu
-
 * PhD student
 
 * College of Information Sciences and Technology
