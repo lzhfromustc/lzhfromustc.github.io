@@ -4,7 +4,7 @@
 
 * Pennsylvania State University
 
-* State College, Pennsylvania 16803
+* State College, Pennsylvania 16801
 
 ### About me
 
