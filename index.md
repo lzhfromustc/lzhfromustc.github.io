@@ -8,7 +8,7 @@
 
 ### About me
 
-I am a PhD student in the group of [Dr. Linhai Song](https://songlh.github.io/), of College of Information Sciences and Technology at Pennsylvania State University. My research interests focus on the area of software engineering, concurrency and programming language.
+I am a PhD student in the group of [Dr. Linhai Song](https://songlh.github.io/), of College of Information Sciences and Technology at Pennsylvania State University. My research interests focus on the area of software engineering, concurrency and programming language. <a href="CV-Ziheng Liu.pdf" download>[My CV is here.]</a>
 
 I received my bachelor degree from School of Nuclear Science and Technology at University of Science and Technology of China in 2018.
 
