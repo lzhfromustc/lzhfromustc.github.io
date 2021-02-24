@@ -14,5 +14,5 @@ I received my bachelor degree from School of Nuclear Science and Technology at U
 
 ### Publication
 
-<span style="color:blue">*Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems*</span>. [pdf will be available after camera ready] <br />
+<span style="color:blue">*Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems*</span>. <a href="ASPLOS 1170.pdf" download>[pdf] <br />
 **Ziheng Liu**, Shuofei Zhu, Boqin Qin, Hao Chen and Linhai Song. *ASPLOS'2021*
